@@ -1,1 +1,1 @@
-# java-springBoot-traning
+# java-springboot-training
